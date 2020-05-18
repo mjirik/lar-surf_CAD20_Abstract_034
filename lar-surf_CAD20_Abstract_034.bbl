@@ -1,0 +1,70 @@
+\begin{thebibliography}{10}\small
+
+\bibitem{Besard2019}
+Besard, T.; Foket, C.; De~Sutter, B.: {Effective Extensible Programming:
+  Unleashing Julia on GPUs}.
+\newblock IEEE Transactions on Parallel and Distributed Systems,
+  30(4):827--841, 2019.
+\newblock \doi{10.1109/TPDS.2018.2872064}.
+
+\bibitem{Buluc2017}
+Buluc, A.; Mattson, T.; McMillan, S.; Moreira, J.; Yang, C.: {Design of the
+  GraphBLAS API for C}.
+\newblock Proceedings - 2017 IEEE 31st International Parallel and Distributed
+  Processing Symposium Workshops, IPDPSW 2017. 2017, 643--652.
+\newblock \doi{10.1109/IPDPSW.2017.117}.
+
+\bibitem{DiCarlo2009}
+Dicarlo, A.; Milicchio, F.; Paoluzzi, A.; Shapiro, V.: {Chain-based
+  representations for solid and physical modeling}.
+\newblock IEEE Transactions on Automation Science and Engineering,
+  6(3):454--467, 2009.
+\newblock \doi{10.1109/TASE.2009.2021342}.
+
+\bibitem{DiCarlo2014}
+DiCarlo, A.; Paoluzzi, A.; Shapiro, V.: {Linear algebraic representation for
+  topological structures}.
+\newblock Computer-Aided Design, 46:269--274, 2014.
+\newblock \doi{10.1016/j.cad.2013.08.044}.
+
+\bibitem{Paoluzzi2016}
+Paoluzzi, A.; Dicarlo, A.; Furiani, F.; Jirik, M.: {CAD models from medical
+  images using LAR}.
+\newblock Computer-Aided Design, 13(6), 2016.
+\newblock \doi{10.1080/16864360.2016.1168216}.
+
+\bibitem{TSAS}
+Paoluzzi, A.; Shapiro, V.; DiCarlo, A.; Furiani, F.; Martella, G.; Scorzelli,
+  G.: Topological computing of arrangements with (co)chains.
+\newblock Submitted to ACM TSAS, 2017.
+
+\bibitem{Requicha:1980:RRS:356827.356833}
+Requicha, A.~G.: Representations for Rigid Solids: Theory, Methods, and
+  Systems.
+\newblock {ACM} Comput. Surv., 12(4):437--464, 1980.
+\newblock \doi{10.1145/356827.356833}.
+
+\bibitem{ircad}
+Soler, L.: {3D-IRCADb-01 (http://www.ircad.fr/research/3d-ircadb-01/)}, 2016.
+
+\bibitem{Taubin:1995:SPA:218380.218473}
+Taubin, G.: A Signal Processing Approach to Fair Surface Design.
+\newblock Proceedings of the 22Nd Annual Conference on Computer Graphics and
+  Interactive Techniques. ACM, New York, NY, USA, 1995, SIGGRAPH '95, 351--358.
+\newblock \doi{10.1145/218380.218473}.
+
+\bibitem{10.1016/j.cad.2006.09.003}
+Wang, C. C.~L.: Direct Extraction of Surface Meshes from Implicitly Represented
+  Heterogeneous Volumes.
+\newblock Comput. Aided Des., 39(1):35?50, 2007.
+\newblock \doi{10.1016/j.cad.2006.09.003}.
+
+\bibitem{10.1115/1.2960489}
+Wang, C. C.~L.: {Extracting Manifold and Feature-Enhanced Mesh Surfaces From
+  Binary Volumes}.
+\newblock Journal of Computing and Information Science in Engineering, 8(3),
+  2008.
+\newblock \doi{10.1115/1.2960489}.
+\newblock 031006.
+
+\end{thebibliography}
